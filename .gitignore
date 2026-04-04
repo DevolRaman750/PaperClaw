@@ -38,6 +38,8 @@ venv/
 backend/venv/
 backend/.venv/
 
+hive/
+
 # Build / packaging
 build/
 dist/
